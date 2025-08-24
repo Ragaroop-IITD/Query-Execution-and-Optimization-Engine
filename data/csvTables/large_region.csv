@@ -1,0 +1,11 @@
+r_region_id:integer,r_name:string
+1,Region_A
+2,Region_B
+3,Region_C
+4,Region_D
+5,Region_E
+6,Region_F
+7,Region_G
+8,Region_H
+9,Region_I
+10,Region_J

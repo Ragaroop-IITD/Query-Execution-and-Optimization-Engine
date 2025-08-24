@@ -1,0 +1,11 @@
+p_product_id:integer,p_product_name:string,p_price:double
+201,Widget,25.50
+202,Gadget,15.75
+203,Thingamajig,40.00
+204,Doohickey,10.00
+205,Contraption,55.25
+206,Device,30.00
+207,Apparatus,20.00
+208,Instrument,45.50
+209,Tool,12.25
+210,Machine,65.00
